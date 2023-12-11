@@ -1,0 +1,7 @@
+controllers:
+    resource: ../src/Controller/
+    type: attribute
+
+tusk:
+  path: /FU
+  controller: App\Controller\FUController::form
